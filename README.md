@@ -17,4 +17,10 @@ Introduces some best case of how to use each of them.
 [Play Time: Dynamic Selection](http://flukeout.github.io/)<br>
 
 #### Box Model
+[Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/)<br>
+It presents how to interpreter the Box Model =>
+The most interesting part was to set the attribute 
+ box-sizing: border-box;
+ So when we set width: 400px, margin: 10px, padding: 10px,
+ the total width will be 400px;
 
