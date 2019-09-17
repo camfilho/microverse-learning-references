@@ -13,3 +13,5 @@ _Introduces the ideia of using **Using CSS Resets**._
 Presents how to select by attributes [rel="value"] -> 
 Introduces some best case of how to use each of them.
 > [href$=".pdf"] { background: url(icon-pdf.png) left center no-repeat} gives a pdf icon to every link that ends with .pdf
+
+[Play Time: Dinamic Selection](http://flukeout.github.io/)<br>
