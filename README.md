@@ -24,3 +24,6 @@ The most interesting part was to set the attribute
  So when we set width: 400px, margin: 10px, padding: 10px,
  the total width will be 400px;
 
+[The CSS Box Model ](https://css-tricks.com/the-css-box-model/)<br>
+A CSS Tricks article abouta how to interpret the block and inline displays =>
+Basically, **every element in web design is a rectangular box**
