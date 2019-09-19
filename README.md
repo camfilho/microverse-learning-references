@@ -38,6 +38,8 @@ sticks to the left/right. They go from stacking on top of each other to sitting 
 [CSS Positioning 101](https://alistapart.com/article/css-positioning-101/)<br>
 Positining introduces the concept of moving the elements around in a relative ou absolute way. <br>
 The coolest part is the use of absolute, which we can use to fix our element wherever we want.
+**Things to Pay Attention** The use of positioning creates new position references.<br>
+_Thus if we have div2 inside div1 and set div2 to absolut top:0, it will go to the top of div1._
 
 [Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)<br>
 It teaches us in a interactive way ways of using positioning to create layouts.
