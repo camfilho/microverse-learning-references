@@ -30,3 +30,14 @@ Basically, **every element in web design is a rectangular box**
 
 
 ### Floats and Positioning
+[CSS Floats 101](https://alistapart.com/article/css-floats-101/)<br>
+It introduces the concept of the _Normal Flow_ => <br>
+Basically, when a float: left, right is applyed, it gets out of the normal flow and <br>
+sticks to the left/right. They go from stacking on top of each other to sitting next to each other.
+
+[CSS Positioning 101](https://alistapart.com/article/css-positioning-101/)<br>
+Positining introduces the concept of moving the elements around in a relative ou absolute way. <br>
+The coolest part is the use of absolute, which we can use to fix our element wherever we want.
+
+[Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)<br>
+It teaches us in a interactive way ways of using positioning to create layouts.
