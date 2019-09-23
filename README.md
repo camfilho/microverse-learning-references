@@ -43,3 +43,9 @@ _Thus if we have div2 inside div1 and set div2 to absolut top:0, it will go to t
 
 [Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)<br>
 It teaches us in a interactive way ways of using positioning to create layouts.
+
+
+### Flexbox
+[Flexbox](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)<br>
+This is a series of videos whe Flexbox is taught from the beginning. <br>
+I suggest you to watch it and reinforce the knowledge wth 
