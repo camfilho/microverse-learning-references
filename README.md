@@ -48,4 +48,11 @@ It teaches us in a interactive way ways of using positioning to create layouts.
 ### Flexbox
 [Flexbox](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)<br>
 This is a series of videos whe Flexbox is taught from the beginning. <br>
-I suggest you to watch it and reinforce the knowledge wth 
+I suggest you to watch it and reinforce the knowledge with Flexbox CSS Tricks tutoral, <br>
+so later you will know how to use CSS Tricks as a cheat sheet.
+
+
+### Grid
+[CSS Grid Garden](http://cssgridgarden.com/)<br>
+Great and dynamic way to star learning about CSS Grid <br>
+
