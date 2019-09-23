@@ -56,3 +56,6 @@ so later you will know how to use CSS Tricks as a cheat sheet.
 [CSS Grid Garden](http://cssgridgarden.com/)<br>
 Great and dynamic way to star learning about CSS Grid <br>
 
+[Grid by Example](http://cssgridgarden.com/)<br>
+A series of videos on Grid which explain it, as thename says, by applying it in some examples.
+
