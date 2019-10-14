@@ -59,4 +59,7 @@ Great and dynamic way to star learning about CSS Grid <br>
 [Grid by Example](http://cssgridgarden.com/)<br>
 A series of videos on Grid which explain it, as thename says, by applying it in some examples.
 
-asdf
+### CSS Best Practices
+[Learn CSS Layout](http://learnlayout.com/)<br>
+This tutorial teaches some use cases of one of the main attributes of CSS which goes from margin, passing through floats, media queries and ending up .<br>
+Also it gives us some examples of layouting a web page.
